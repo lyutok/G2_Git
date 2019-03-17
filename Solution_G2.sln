@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution_G2", "Solution_G2\Solution_G2.csproj", "{5D214F56-11C0-4B94-899E-5B1EDD1F0633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver", "WebDriver\WebDriver.csproj", "{4536B986-6780-4555-A930-AFD0F3A5BB3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver1", "WebDriver\WebDriver1.csproj", "{4536B986-6780-4555-A930-AFD0F3A5BB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTest", "WebDriverTest\WebDriverTest.csproj", "{263EF5FE-6860-4194-B8FB-05CD69A5A5B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4536B986-6780-4555-A930-AFD0F3A5BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4536B986-6780-4555-A930-AFD0F3A5BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4536B986-6780-4555-A930-AFD0F3A5BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263EF5FE-6860-4194-B8FB-05CD69A5A5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263EF5FE-6860-4194-B8FB-05CD69A5A5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263EF5FE-6860-4194-B8FB-05CD69A5A5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263EF5FE-6860-4194-B8FB-05CD69A5A5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
