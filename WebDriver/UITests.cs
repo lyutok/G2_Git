@@ -1,14 +1,18 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 
 namespace WebDriver
 {
-    [TestClass]
     public class UITests
     {
         [Test]
-        public void TestMethod1()
+
+        public void TestWebDriverMethods()
         {
+            IWebDriver driver = new ChromeDriver();
+
         }
+        
     }
 }
