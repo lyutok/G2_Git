@@ -9,6 +9,7 @@ namespace Solution_G2
         {
 
             Console.WriteLine( "Change in Test branch.");
+            Console.WriteLine("Change in Master branch.");
             //Isplicit types convertion
             // int a = 50;
             // byte b = 7;
